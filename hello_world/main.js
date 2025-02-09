@@ -1,4 +1,2 @@
-function main() {
-    console.log("Hello, World!");
-}
-main();
+const output = "Hello, World!";
+console.log(output);
