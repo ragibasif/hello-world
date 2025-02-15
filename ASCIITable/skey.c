@@ -1,23 +1,6 @@
-#include <stdio.h>
+#include "skey.h"
 
 /*Generate the ASCII table with decimal, octal, hexadecimal, binary, and the character.*/
-
-void printASCII();
-char *charToBin(char a);
-
-
-int main(int argc, char **argv){
-
-    printf("argc: %d\n", argc);
-    int i;
-    for (i = 0; i < argc; i++){
-        printf("argv[%d]: %s\n",i,*(argv+i));
-    }
-
-    printASCII();
-    return(0);
-}
-
 
 char *charToBin(char a) {
     static char b[9];
