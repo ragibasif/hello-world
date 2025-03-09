@@ -18,40 +18,41 @@ The "Hello, World!" program is a classic starting point for learning any program
 
 Below is a list of programming languages currently included in this repository:
 
-- **C**
-- **C++**
-- **Java**
-- **Python**
-- **JavaScript**
-- **Ruby**
-- **Go**
-- **Rust**
-- **Swift**
-- **Kotlin**
-- **PHP**
-- **Bash**
-- **Perl**
-- **R**
-- **TypeScript**
-- **Dart**
-- **Elixir**
-- **Haskell**
-- **Lua**
-- **Scala**
-- **Shell Script**
-- **PowerShell**
-- **Assembly (x86)**
-- **HTML** (with JavaScript)
-- **CSS** (with HTML)
-- **SQL** (as a query)
+- [x] **C**
+- [x] **C++**
+- [x] **Java**
+- [x] **Python**
+- [x] **JavaScript**
+- [x] **Ruby**
+- [x] **Go**
+- [x] **Rust**
+- [x] **Swift**
+- [x] **Kotlin**
+- [x] **PHP**
+- [x] **Bash**
+- [x] **Perl**
+- [x] **R**
+- [x] **TypeScript**
+- [ ] **Dart**
+- [x] **Elixir**
+- [x] **Haskell**
+- [x] **Lua**
+- [x] **Scala**
+- [x] **Bash**
+- [ ] **PowerShell**
+- [ ] **Assembly (x86)**
+- [ ] **HTML** (with JavaScript)
+- [ ] **CSS** (with HTML)
+- [ ] **SQL** (as a query)
 
-*Note: This list is continually growing. If you don't see your favorite language, feel free to contribute!*
+_Note: This list is continually growing. If you don't see your favorite language, feel free to contribute!_
 
 ## How to Use
 
 1. **Clone the Repository**:
+
    ```bash
-   git clone https://github.com/your-username/hello-world.git
+   git clone https://github.com/ragibasif/hello-world.git
    cd hello-world
    ```
 
@@ -59,6 +60,7 @@ Below is a list of programming languages currently included in this repository:
    Each language has its own folder containing the "Hello, World!" program. For example, to find the Python version, navigate to the `python` folder.
 
 3. **Run the Program**:
+   <!--TODO:-->
    Follow the instructions in the respective folder's `README.md` file to compile and run the program.
 
 ## Contributing
